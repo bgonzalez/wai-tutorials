@@ -1,13 +1,13 @@
 ---
-title: "An alt Decision Tree"
-title_html: "An <code>alt</code> Decision Tree"
+title: "Alttext Entscheidungsbaum"
+title_html: " <code>Alttext</code> Entscheidungsbaum"
 permalink: /tutorials/images/decision-tree/
 ref: /tutorials/images/decision-tree/
-lang: en
+lang: de
 description:
 image: /content-images/wai-tutorials/images/social.png
 github:
-  branch: 'master-2.0'
+  branch: 'de'
   repository: w3c/wai-tutorials
   path: 'content/images/decision-tree.md'
 
@@ -21,10 +21,13 @@ wcag_techniques:
 
 
 metafooter: true
-last_updated: 2017-04-12
+last_updated: 2022-11-01
 editors:
   - Eric Eggert: "https://www.w3.org/People/yatil/"
   - Shadi Abou-Zahra: "https://www.w3.org/People/shadi/"
+
+translation:
+  - Beatriz González Mellídez
 contributors:
   - Steve Faulkner
   - Anna Belle Leiserson
